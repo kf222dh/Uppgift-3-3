@@ -134,6 +134,17 @@ h2
 	padding-left: 15px;
 }
 
+#maincontent h1
+{
+    font-size:2em;
+}
+
+#menu a
+{
+    display: none;
+}
+
+
 
 
 
