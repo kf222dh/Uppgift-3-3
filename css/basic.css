@@ -144,6 +144,24 @@ h2
     display: none;
 }
 
+#subcontent ul li
+{
+    list-style: none;
+}
+
+#subcontent ul
+{
+    margin: -1px;
+    font-size: 0.8em;
+}
+
+#subcontent ul li a
+{
+    color: #51473d;
+	font-size: 1.5em;
+}
+
+
 
 
 
