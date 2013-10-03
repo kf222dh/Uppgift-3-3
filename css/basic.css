@@ -161,6 +161,18 @@ h2
 	font-size: 1.5em;
 }
 
+#menu ul li a:hover
+{
+	color: #eae7d2;
+	background-color: #9c9084;
+}
+
+#menu .active a
+{
+    color: #888076;
+    background: #eae7d2;
+}
+
 
 
 
