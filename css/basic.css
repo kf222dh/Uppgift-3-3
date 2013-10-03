@@ -9,3 +9,18 @@
 	border: 1px solid #cecab9;
 }
 
+#topbar
+{
+	text-align: right;
+	font-family: Verdana, sans-serif;
+	font-size: 0.65em;
+	height: 215px;
+	float: left;
+	width: 600px;
+	background-repeat: no-repeat;
+	background-color: #51473d;
+	background-image: url(../pics/coffey.jpg);
+	background-position: 15px;
+	color: #eae7d2;
+	font-style: italic;
+}
