@@ -92,5 +92,14 @@ h2
 	font-weight: lighter;
 }
 
+#bottomcontent
+{
+    font-size: 0.8em;
+    font-style: italic;
+    width: 500px;
+    overflow: auto;
+}
+
+
 
 
