@@ -77,4 +77,20 @@
     padding: 7px;
 }
 
+h1
+{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #797066;
+	font-size: 1.4em;
+}
+
+h2
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+
 
